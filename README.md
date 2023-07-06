@@ -1,6 +1,6 @@
 <img src="https://wallpaperaccess.com/full/1109792.jpg"  >
 <h1 align="center">Hello Fellow < Developers/ > 👋</h1>
-<h2 align="center">Hi🙂, I'm Sutonu Dhara. A passionate frontend developer from India. I love to build new things and coding is my passion.</h2>
+<h2 align="center">Hi🙂, I'm Sutonu Dhara. A passionate front-end developer from India. I love to build new things and coding is my passion.</h2>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsVkoa5Zmw03uvtFi-ZxBCUcBOJLoOfpOBFQ&usqp=CAU">
 
 
